@@ -1,0 +1,120 @@
+{
+    "id": "",
+    "data": {
+        "activo": true,
+        "idExpediente": "1517",
+        "tipoInterviniente": {
+            "label": "Víctima",
+            "value": "1",
+            "active": true
+        },
+        "categoriaInterviniente": {
+            "label": "Víctima conocida",
+            "value": "1",
+            "active": true
+        },
+        "situacionMigratoria": {
+            "label": "Residente permanente",
+            "value": "10",
+            "active": true
+        },
+        "hablaEspaniol": {
+            "label": "Sí",
+            "value": "1",
+            "active": true
+        },
+        "sabeLeerEscribir": {
+            "label": "Sí",
+            "value": "1",
+            "active": true
+        },
+        "nivelEscolaridad": {
+            "label": "Licenciatura o profesional",
+            "value": "11",
+            "active": true
+        },
+        "ocupacion": {
+            "label": "No identificado",
+            "value": "11",
+            "active": true
+        },
+        "numCantidadHijos": "0",
+        "principalFuenteIngresos": {
+            "label": "Trabajo",
+            "value": "1",
+            "active": true
+        },
+        "rangoIngresosMensual": {
+            "label": "De 6,367 pesos a 9,549 pesos",
+            "value": "6",
+            "active": true
+        },
+        "numCantidadDependientes": "2",
+        "esDatoDenunciante": false,
+        "valido": true,
+        "edadComisionDelito": 23,
+        "menorEdad": {
+            "label": "No",
+            "value": "2",
+            "active": true
+        },
+        "requiereAjustesRazonables": false,
+        "isSemiconocida": false,
+        "persona": {
+            "nombreRazonSocial": "VICTIMA2",
+            "primerApellido": "VICTIMA2",
+            "segundoApellido": "VICTIMA2",
+            "fechaNacimiento": "2001-01-01T06:00:00.000Z",
+            "otroNombre": "VIC2",
+            "sexo": {
+                "label": "Hombre",
+                "value": "1",
+                "active": true
+            },
+            "tipoPersona": {
+                "label": "Física",
+                "value": "1",
+                "disabled": true
+            },
+            "nacionalidad": {
+                "label": "Mexicana",
+                "value": "2",
+                "active": true
+            },
+            "pais": {
+                "label": "México",
+                "value": 143,
+                "active": true
+            },
+            "municipio": {
+                "label": "Coyoacán",
+                "value": 220,
+                "active": true
+            },
+            "estado": {
+                "label": "Ciudad De México",
+                "value": 9,
+                "active": true
+            },
+            "estadoCivil": {
+                "label": "Separado(a)",
+                "value": "3",
+                "active": true
+            },
+            "genero": {
+                "label": "No especificado",
+                "value": "3",
+                "active": true
+            },
+            "activo": true,
+            "religion": {
+                "label": "Bautismal",
+                "value": "5",
+                "active": true
+            }
+        },
+        "isInformacionRestringida": false,
+        "updatedBy": "007",
+        "tabActiva": 10
+    }
+}
